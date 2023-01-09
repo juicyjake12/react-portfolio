@@ -7,8 +7,8 @@ function Navigation(props) {
 
   return (
     <nav>
-      <ul className="nav nav-tabs">
-        <li className="nav-item">
+      <ul className="nav-nav-tabs">
+        <li className="nav-section">
           <a
             href="#about"
             onClick={() => handleTabChange('About')}
@@ -17,7 +17,7 @@ function Navigation(props) {
             About
           </a>
         </li>
-        <li className="nav-item">
+        <li className="nav-section">
           <a
             href="#portfolio"
             onClick={() => handleTabChange('Portfolio')}
@@ -26,7 +26,7 @@ function Navigation(props) {
             Portfolio
           </a>
         </li>
-        <li className="nav-item">
+        <li className="nav-section">
           <a
             href="#contact"
             onClick={() => handleTabChange('Contact')}
@@ -35,7 +35,7 @@ function Navigation(props) {
             Contact
           </a>
         </li>
-        <li className="nav-item">
+        <li className="nav-section">
           <a
             href="#resume"
             onClick={() => handleTabChange('Resume')}

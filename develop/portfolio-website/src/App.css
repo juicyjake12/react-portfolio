@@ -1,0 +1,127 @@
+.App {
+  text-align: center;
+}
+
+img {
+  height: 60%;
+  width: 50%;
+  margin-top: 5%;
+}
+
+body {
+  background-color: rgba(82, 210, 233, 0.473);
+}
+
+.BioSection {
+  padding-left: 10px;
+}
+
+.BioTitle {
+  margin-left: 10%;
+
+}
+
+.headerTitle {
+  margin-top: -1%;
+}
+
+.ProfileIMG {
+  height: 45%;
+  width: 45%;
+  float: left;
+
+}
+
+.bioParagraph {
+  text-align: left;
+  font-size: xx-large;
+
+}
+
+
+Footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(99, 119, 61, 0.877);
+  font-size: larger;
+
+}
+
+.FooterLinks {
+  align-content: center;
+}
+
+.FooterLink a {
+  display: block;
+  color: white;
+  padding: 16px;
+  text-decoration: none;
+}
+
+
+.Header {
+  text-align: center;
+}
+
+.Title {
+  color: black;
+  font-size: large;
+
+}
+
+
+.nav-nav-tabs {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin: 1px;
+  padding: 0;
+  background-color: rgba(99, 119, 61, 0.781);
+  list-style: none;
+}
+
+.nav-section {
+  float: right;
+  border-left: 5px solid rgb(157, 157, 157);
+}
+
+.nav-section a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav-section a:hover {
+  background-color: rgba(82, 210, 233, 0.473);
+}
+
+.active {
+  background-color: black;
+}
+
+
+.portfolioSection {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  width: 40%;
+  align-items: center;
+  font-size: xx-large;
+}
+
+.portfolio-Projects {
+  padding: 5%;
+}
+
+
+
+
+.resumeSection {
+  text-align: center;
+  font-size: xx-large;
+  margin: auto;
+  width: 50%;
+}
