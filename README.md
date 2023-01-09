@@ -32,7 +32,7 @@ None
   None
   
   ## Questions?
-  ![Alt text](../Pictures/react%20portfolio.png)
+  (../Pictures/react%20portfolio.png)
   
   ### Reach me here: 
   [juicyjake12](https://github.com/juicyjake12)  
