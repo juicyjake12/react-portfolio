@@ -32,8 +32,9 @@ None
   None
   
   ## Questions?
-  (../Pictures/react%20portfolio.png)
-  
+ 
+  ![react portfolio](https://user-images.githubusercontent.com/108505695/211235996-6ad5fda4-1ace-4896-92ba-8934bde8a0f0.png)
+
   ### Reach me here: 
   [juicyjake12](https://github.com/juicyjake12)  
   jacob.hopper70@yahoo.com
